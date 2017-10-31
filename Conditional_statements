@@ -4,3 +4,15 @@ if (condition) {
 }
 
 
+if (x== 2000) { 
+//code goes here
+//...
+}
+// if x equals 2000
+
+if (x != 200) { 
+//code goes here
+//...
+}
+
+// is it true that x is not equal 200
